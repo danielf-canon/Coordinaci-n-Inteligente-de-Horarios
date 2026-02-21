@@ -36,3 +36,36 @@ Este análisis permitió validar que la coordinación de horarios es un problema
 
 ## Sección B: Definición de Requisitos (Definition)
 
+### 👤 Historia de Usuario
+
+Como estudiante y trabajador con múltiples responsabilidades, quiero una aplicación sencilla donde pueda ver la disponibilidad de mis amigos y organizar reuniones, para no perder tiempo coordinando horarios manualmente.
+
+### ✅ Criterios de Aceptación
+
+1. El usuario debe poder registrar su disponibilidad de horarios de forma rápida.
+
+2. El sistema debe mostrar al menos un horario disponible en común entre los participantes.
+
+3. El sistema debe enviar un recordatorio antes de la reunión.
+
+### ⚙️ Requisitos Funcionales
+
+RF-01: El sistema debe permitir el registro y login de usuarios.
+
+RF-02: El sistema debe permitir guardar la disponibilidad de horarios de cada usuario.
+
+RF-03: El sistema debe mostrar los horarios disponibles en común.
+
+RF-04: El sistema debe enviar recordatorios básicos antes del evento.
+
+RF-05: El sistema debe guardar la información en una base de datos.
+
+### 🚀 Alcance Futuro del Proyecto
+
+En el futuro, el sistema podría incluir:
+
+- Uso de inteligencia artificial para sugerir horarios óptimos.
+
+- Análisis de patrones de disponibilidad.
+
+- Integración con plataformas de mensajería para enviar recordatorios automáticos.
