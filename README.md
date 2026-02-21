@@ -1,7 +1,5 @@
 # Proyecto Coordinación Inteligente de Horarios
 
-# Proyecto: SyncMeet – Coordinación Inteligente de Horarios
-
 ## Sección A: Evidencia de Campo (Discovery)
 
 ### 🔥 Dolor detectado
